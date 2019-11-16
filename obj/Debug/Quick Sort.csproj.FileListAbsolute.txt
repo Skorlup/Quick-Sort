@@ -1,0 +1,7 @@
+C:\Users\z_m_1\source\repos\Quick Sort\Quick Sort\bin\Debug\Quick Sort.exe.config
+C:\Users\z_m_1\source\repos\Quick Sort\Quick Sort\bin\Debug\Quick Sort.exe
+C:\Users\z_m_1\source\repos\Quick Sort\Quick Sort\bin\Debug\Quick Sort.pdb
+C:\Users\z_m_1\source\repos\Quick Sort\Quick Sort\obj\Debug\Quick Sort.csprojAssemblyReference.cache
+C:\Users\z_m_1\source\repos\Quick Sort\Quick Sort\obj\Debug\Quick Sort.csproj.CoreCompileInputs.cache
+C:\Users\z_m_1\source\repos\Quick Sort\Quick Sort\obj\Debug\Quick Sort.exe
+C:\Users\z_m_1\source\repos\Quick Sort\Quick Sort\obj\Debug\Quick Sort.pdb
